@@ -8,7 +8,7 @@ class About extends Component {
         <Grid className="contact-grid">
           <Cell col={7}>
           {/* TODO: Change name, bio */}
-            <h2>Ryan Doner</h2>
+            <h2>Demo Name</h2>
             <img src="flatironsPortrait.jpg" alt="avatar" style={{ width:'90%' }} />
             <p style={{ width: "90%", margin: "auto", paddingTop: "1em", textAlign: 'left' }}>
               I am a front end web and mobile developer from Tucson, AZ who currently resides in Boulder,
